@@ -1,0 +1,14 @@
+[
+  {
+    "name": "robot",
+    "className": "org.cuit.epoch.ioc.test.entity.Robot"
+  },
+  {
+    "name": "hand",
+    "className": "org.cuit.epoch.ioc.test.entity.Hand"
+  },
+  {
+    "name": "mouth",
+    "className": "org.cuit.epoch.ioc.test.entity.Mouth"
+  }
+]
